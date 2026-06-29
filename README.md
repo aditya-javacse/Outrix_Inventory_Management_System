@@ -128,57 +128,57 @@ Generate professional reports including:
 
 ## Login Screen
 
-```markdown
+
 ![Login](screenshots/login.png)
-```
+
 
 ---
 
 ## Dashboard
 
-```markdown
+
 ![Dashboard](screenshots/dashboard.png)
-```
+
 
 ---
 
 ## Inventory Management
 
-```markdown
+
 ![Inventory](screenshots/inventory.png)
-```
+
 
 ---
 
 ## Sales Module
 
-```markdown
+
 ![Sales](screenshots/sales.png)
-```
+
 
 ---
 
 ## Reports
 
-```markdown
+
 ![Reports](screenshots/reports.png)
-```
+
 
 ---
 
 ## Barcode Generator
 
-```markdown
+
 ![Barcode](screenshots/barcode.png)
-```
+
 
 ---
 
 ## Backup & Restore
 
-```markdown
+
 ![Backup](screenshots/backup.png)
-```
+
 
 ---
 
